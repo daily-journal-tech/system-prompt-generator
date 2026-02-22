@@ -1,5 +1,5 @@
 # System Prompt Generator
-Generate the best system prompt generator based on the best prompts in the world
+Generate the best system prompts based on the system best prompts in the world
 
 Meta analysis on
 
