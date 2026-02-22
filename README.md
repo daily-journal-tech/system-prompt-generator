@@ -1,5 +1,5 @@
 # System Prompt Generator
-Generate the best system prompts based on the system best prompts in the world
+Generate the best system prompts based on the best system prompts in the world
 
 Meta analysis on (https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/tree/main)
 
